@@ -11,4 +11,3 @@ ScentMate offers an immersive experience where users can deep dive into the deta
 * **Admin Dashboard:** Secure, password-protected command center for admins to add, edit, or delete perfumes, manage brands, and update scent accords.
 * **Secure Authentication:** Features secure login systems for both users and administrators using password hashing and session management.
 
-The site can be accesed from here https://sofan-laurentiu-mihai.github.io/ScentMate/
